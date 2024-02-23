@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @coldzera630.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning mongo.
+- 👋 Hi,My Name is Divyanshhu Yadav.
+- 👀 I’m a Web Developer.
+- 🌱 I m a 2nd year College Student 
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me coldzera630@gmail.com
+- 📫 Contact me at- coldzera630@gmail.com
 
 <!---
 coldzera630/coldzera630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
