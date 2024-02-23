@@ -1,6 +1,6 @@
 - 👋 Hi,My Name is Divyanshhu Yadav.
 - 👀 I’m a Web Developer.
-- 🌱 I m a 2nd year College Student 
+- 🌱 I m a 2nd year College Student. 
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 Contact me at- coldzera630@gmail.com
 
