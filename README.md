@@ -1,6 +1,6 @@
 - 👋 Hi,My Name is Divyanshhu Yadav.
-- 🌱 I am a 2nd year College Student [Btech-CSE].
-- 👀 I am a Web Developer looking to collaboratee on web development projects.
+- 🌱 I am a 2nd Year Btech Student [CSE].
+- 👀 I am a Web Developer looking to collaboratee on Web Development Projects.
 - 📫 Contact me at- coldzera630@gmail.com.
 
 
