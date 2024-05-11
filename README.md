@@ -1,10 +1,6 @@
-- 👋 Hi,My Name is Divyanshhu Yadav.
-- 🌱 I am a 2nd Year Btech Student [CSE].
-- 👀 I am a Web Developer looking to collaboratee on Web Development Projects.
-- 📫 Contact me at- coldzera630@gmail.com.
+Divyanshhu Yadav | Web Dev (BTech CSE )
+Building web experiences!
 
-
-<!---
-coldzera630/coldzera630 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eager Web Dev (HTML, CSS, JS) seeking projects.
+Open to collaboration & learning new tech.
+Let's connect! coldzera630@gmail.com
